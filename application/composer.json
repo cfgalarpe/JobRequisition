@@ -1,0 +1,14 @@
+{
+    "name": "charlottegalarpe/triune",
+    "description": "triuneapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Charlotte Faye Galarpe",
+            "email": "charlottefayemgalarpe@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
